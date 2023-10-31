@@ -1,0 +1,56 @@
+*{
+    background-color: rgb(136, 230, 231);
+    color: gray;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+  
+  img {
+    height: 175px;
+    width: auto;
+    border-radius: 50%;
+  }
+  
+  #header {
+    padding: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  #bio {
+    padding: 10px 30px 10px 30px;
+    border-radius: 5px;
+  }
+  
+  h1 {
+    padding: 15px;
+  }
+  
+ 
+  h2 {
+    padding: 15px 0 15px 25px;
+    border-radius: 5px;
+  }
+  
+  div {
+    font-size: 26px;
+    padding: 0 0 10px 0;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+  
+  li {
+    padding: 10px 30px 10px 30px;
+
+  }
+  
+  a,
+  a:visited {
+    color: rgb(255, 0, 238);
+  }
